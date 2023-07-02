@@ -7,7 +7,7 @@ import "react-calendar/dist/Calendar.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <HashRouter basename="/think-write">
+    <HashRouter>
       <App />
     </HashRouter>
   </React.StrictMode>
